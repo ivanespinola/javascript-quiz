@@ -62,7 +62,7 @@ JavaScript Quiz is a web application that allows users to take quizzes about Jav
     npm run dev
     ```
 
-The application will be available at `http://localhost:3000`.
+The application will be available at `http://localhost:5173`.
 
 ## Usage 
 
