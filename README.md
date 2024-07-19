@@ -8,20 +8,20 @@ JavaScript Quiz is a web application that allows users to take quizzes about Jav
 
 - `src/`
   - `components/` 
-    - `Game.tsx` - Main game component
-    - `Question.tsx` - Component for displaying each question
-    - `Footer.tsx` - Component for displaying the footer with results
-    - `Results.tsx` - Component for displaying the final results
-    - `Start.tsx` - Component for start de quiz and fetching de questions
-    - `JavaScriptLogo.tsx` - Component for displaying the JS logo
+    - `Game.tsx` 
+    - `Question.tsx` 
+    - `Footer.tsx` 
+    - `Results.tsx` 
+    - `Start.tsx` 
+    - `JavaScriptLogo.tsx`
   - `hooks/` 
-    - `useQuestionData.ts` - Hook for fetching question data
+    - `useQuestionData.ts`
   - `store/` 
-    - `questions.ts` - State and actions related to questions
+    - `questions.ts` 
   - `theme/` 
-    - `theme.ts` - Theme definitions
-  - `App.tsx` - Main application component
-  - `main.tsx` - Application entry 
+    - `theme.ts` 
+  - `App.tsx` 
+  - `main.tsx`
 
 ## Features 
 
@@ -71,9 +71,10 @@ The application will be available at `http://localhost:3000`.
 3. Once all questions are answered, the results will be displayed.
 4. You can reset the quiz by clicking the "Reset Quiz" button.
 
+## Live Demo
 
+Check out the live demo of the project [here](https://javascript-quiz-one.vercel.app/).
 
-
-## License 📄
+## License 
 
 This project is licensed under the MIT License. 
